@@ -1,0 +1,5 @@
+John will complete API integration by Friday.
+
+Sarah will prepare deployment documentation.
+
+Mike will perform testing next week.
